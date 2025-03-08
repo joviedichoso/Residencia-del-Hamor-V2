@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss(),
   ],
-  base: '/Residencia-del-Hamor',
+  base: '/Residencia-del-Hamor-V2/',
 });
